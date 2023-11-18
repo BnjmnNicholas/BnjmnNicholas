@@ -11,7 +11,7 @@
 - 📄 Intereses: Machine Learning, MLOps
 
 
-- ⚡ Hobbies: **Fitness🏋️‍♂, Bodybuilding 💪, solía jugar CSGO 🔫🔫**
+- ⚡ Hobbies: **Fitness🏋️‍♂💪, solía jugar CSGO 🔫🔫**
 
 
 
