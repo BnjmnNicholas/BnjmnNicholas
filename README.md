@@ -41,5 +41,5 @@ Cloud
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BnjmnNicholas&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bnjmnnicholas&" alt="bnjmnnicholas" /></p>
