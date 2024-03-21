@@ -1,5 +1,5 @@
-<h1 align="center">Hola!! soy Benjamín Nicholas</h1>
-<h4 align="center">Soy estudiante de último año de Ingeniería Civil Eléctrica en la Universidad de Chile, tengo 23 años y vivo en Santiago de Chile. Mi gata se llama Neith 🐈.</h4>
+<h1 align="center">Hola!!</h1>
+<h4 align="center">Soy estudiante de Ingeniería Civil Eléctrica en la Universidad de Chile, vivo en Santiago de Chile. Mi gata se llama Neith 🐈.</h4>
   <p align="center">
     <a href="CV.pdf">
         <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
