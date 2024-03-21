@@ -36,5 +36,9 @@ Cloud
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
+Extras
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ![BnjmnNicholas's Stats](https://github-readme-stats.vercel.app/api?username=BnjmnNicholas&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
