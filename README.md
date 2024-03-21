@@ -6,12 +6,12 @@
     </a>
 </p>
 
-- 📫 Mi correo es: **benjamin.torrealba@ug.uchile.cl**
+- 📫 Mi correo: **benjamin.torrealba@ug.uchile.cl**
 
 - 📄 Intereses: Machine Learning, MLOps
 
 
-- ⚡ Hobbies: **Fitness🏋️‍♂💪, solía jugar CSGO 🔫🔫**
+- ⚡ Hobbies: **Levantar fierro (gym) 🏋️‍♂💪**
 
 
 
