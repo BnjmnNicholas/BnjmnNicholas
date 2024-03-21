@@ -7,7 +7,7 @@
 - 📄 Intereses: Machine Learning, MLOps
 
 
-- ⚡ Hobbies: **Levantar fierro (gym) 🏋️‍♂💪**
+- ⚡ Hobbies: **Tengo complejo de grua horquilla(no diagnosticado)**
 
 
 
