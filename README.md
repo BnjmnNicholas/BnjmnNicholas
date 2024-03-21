@@ -1,5 +1,5 @@
 <h1 align="center">Hola!!</h1>
-<h4 align="center">Soy estudiante de Ingeniería Civil Eléctrica en la Universidad de Chile, vivo en Santiago de Chile. Mi gata se llama Neith 🐈.</h4>
+<h4 align="center">Soy estudiante de Ingeniería Civil Eléctrica en la Universidad de Chile, me especializo en Ciencia de Datos :) vivo en Santiago de Chile y mi gata se llama Neith 🐈.</h4>
 
 
 - 📫 Mi correo: **benjamin.torrealba@ug.uchile.cl**
